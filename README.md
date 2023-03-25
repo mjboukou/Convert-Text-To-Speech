@@ -1,1 +1,4 @@
-# Convert-Write-To-Speech
+# Convert-Text-To-Speech
+The Text-to-Speech Converter App is a software application designed to convert written text into audible speech using Java programming language.
+The app is implemented using Java programming language and utilizes the Java Speech API (JSAPI) to perform the text-to-speech conversion. The JSAPI is a standard API for speech synthesis and recognition and is part of the Java Media Framework (JMF). The app is designed to be user-friendly with a simple and intuitive graphical user interface (GUI) that allows users to easily input text, select voice and language options, and save the converted speech as an audio file.
+The Java Text-to-Speech Converter App is a useful tool for individuals who have difficulty reading or have visual impairments. The app provides an easy and convenient way to convert written text into audible speech using the power of Java programming language.
